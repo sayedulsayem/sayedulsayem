@@ -19,7 +19,7 @@ Hi, I'm [Sayedul Sayem](https://sayedulsayem.com/), a passionate self-taught Ful
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sayedulsayem/sayedulsayem/main/programming.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/programming.gif?raw=true" width="500" height="320" />
   
 
 **Talking about Personal Stuffs:**
