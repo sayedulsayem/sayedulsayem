@@ -21,6 +21,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/sayedulsayem/sayedulsayem/main/programming.gif" width="500" height="320" />
   
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@sayedulsayem](https://twitter.com/sayedulsayem);
 - ✨ **Wanna Talk?** [sayedulsayem](https://facebook.com/sayedulsayem)
@@ -60,9 +65,14 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 TODO-IST:END -->
 
 
-📈 My GitHub Stats
+<details>
+<summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&theme=gotham" alt="sayedulsayem" />
 
+</details>
 
+-----
+Credits: [sayedulsayem](https://github.com/sayedulsayem)
 
+Last Edited on: 19/02/2021
