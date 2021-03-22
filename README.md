@@ -42,29 +42,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-WordPress    7 hrs 17 mins   ████████████▓░░░░░░░░░░░░   51.28 % 
-PHP          2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 
-JavaScript   1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Laravel      1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Other        44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-```
-<!--END_SECTION:waka-->
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START
-🏆  7,522 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 586 tasks so far           
-⏳  Longest streak is 10 days
-TODO-IST:END -->
-
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
