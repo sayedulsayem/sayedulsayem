@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://facebook.com/sayedulsayem">
-  <img align="left" alt="Sayedul Sayem | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://profiles.wordpress.org/sayedulsayem">
+  <img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 </a>
 <a href="https://twitter.com/sayedulsayem">
   <img align="left" alt="Sayedul Sayem | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -25,10 +25,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React; 
+- 🌱 I’m currently learning Vue; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@sayedulsayem](https://twitter.com/sayedulsayem);
-- ✨ **Wanna Talk?** [sayedulsayem](https://facebook.com/sayedulsayem)
+- 📫 How to reach me: [@sayedulsayem](https://sayedulsayem.com/);
+- ✨ **Wanna Talk?** [sayedulsayem](https://www.linkedin.com/in/sayedulsayem/)
 - 📝 [Resume](https://sayedulsayem.com)
 
 **Languages and Tools:**  
