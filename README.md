@@ -45,7 +45,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&theme=gotham" alt="sayedulsayem" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="sayedulsayem" />
 
 </details>
 
