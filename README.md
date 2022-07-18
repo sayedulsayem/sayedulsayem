@@ -10,7 +10,8 @@
   <img align="left" alt="Sayedul Sayem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sayedulsayem.sayedulsayem)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sayedulsayem.sayedulsayem)
+![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats-30d)
 
 <br />
 
@@ -45,11 +46,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="sayedulsayem" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&count_private=true&theme=tokyonight" alt="Sayedul Sayem" />          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulsayem&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" alt="sayedul sayem" /></p>
 
 </details>
 
 -----
 Credits: [sayedulsayem](https://github.com/sayedulsayem)
 
-Last Edited on: 19/02/2021
+Last Edited on: 18/07/2022
