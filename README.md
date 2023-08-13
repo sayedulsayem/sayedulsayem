@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://profiles.wordpress.org/sayedulsayem">
-  <img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/wordpress.svg" />
+  <img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/wordpress.png" />
 </a>
 <a href="https://twitter.com/sayedulsayem">
-  <img align="left" alt="Sayedul Sayem | Twitter" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img//twitter.svg" />
+  <img align="left" alt="Sayedul Sayem | Twitter" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img//twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/sayedulsayem/">
-  <img align="left" alt="Sayedul Sayem's LinkedIN" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img//linkedin.svg" />
+  <img align="left" alt="Sayedul Sayem | LinkedIN" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/linkedin.png" />
 </a>
 
 
@@ -46,11 +46,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&count_private=true&theme=tokyonight" alt="Sayedul Sayem" />          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulsayem&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" alt="sayedul sayem" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sayedulsayem&show_icons=true&count_private=true&theme=tokyonight" alt="Sayedul Sayem" />          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulsayem&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" alt="sayedul sayem" />
+</p>
 
 </details>
 
------
 Credits: [sayedulsayem](https://github.com/sayedulsayem)
 
 Last Edited on: 13 Aug 2023
