@@ -15,15 +15,15 @@
 
 <br />
 
-Hi, I'm [Sayedul Sayem](https://sayedulsayem.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sayedul Sayem](https://sayedulsayem.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/programming.gif?raw=true" width="500" height="320" />
   
 
-**Talking about Personal Stuffs:**
+**Talking about Personal kinds of Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Vue; 
