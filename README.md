@@ -1,16 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://profiles.wordpress.org/sayedulsayem">
-  <img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+  <img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/wordpress.svg" />
 </a>
 <a href="https://twitter.com/sayedulsayem">
-  <img align="left" alt="Sayedul Sayem | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sayedul Sayem | Twitter" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img//twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sayedulsayem/">
-  <img align="left" alt="Sayedul Sayem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sayedul Sayem's LinkedIN" width="22px" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img//linkedin.svg" />
 </a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sayedulsayem.sayedulsayem)
+
 ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats-30d)
 
 <br />
@@ -20,7 +20,7 @@ Hi, I'm [Sayedul Sayem](https://sayedulsayem.com/), a passionate self-taught Ful
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/programming.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/programming.gif?raw=true" width="500" height="320" />
   
 
 **Talking about Personal Stuffs:**
@@ -53,4 +53,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 -----
 Credits: [sayedulsayem](https://github.com/sayedulsayem)
 
-Last Edited on: 18/07/2022
+Last Edited on: 13 Aug 2023
