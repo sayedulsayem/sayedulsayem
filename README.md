@@ -6,7 +6,7 @@ I'm a Senior Software Engineer with 8+ years of experience building and scaling 
 
 I work across **Vue.js, Nuxt.js, TypeScript, PHP, Laravel, WordPress, Kubernetes, CI/CD, and cloud infrastructure**, with a strong focus on performance, developer experience, and reliable systems.
 
-<img align="right" alt="GIF" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/programming.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sayedulsayem/sayedulsayem/blob/main/assets/img/programming.gif?raw=true" width="400" height="256" />
 
 * 🔭 Currently working on high-traffic **Vue.js/Nuxt.js platforms**
 * ☸️ Interested in **Platform Engineering, Kubernetes, CI/CD & Observability**
